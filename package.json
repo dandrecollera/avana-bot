@@ -1,0 +1,28 @@
+{
+  "name": "avana-bot",
+  "version": "1.0.0",
+  "description": "Avana Bot, discord bot using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandrecollera/avana-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "node",
+    "js",
+    "bot"
+  ],
+  "author": "Dandre Collera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandrecollera/avana-bot/issues"
+  },
+  "homepage": "https://github.com/dandrecollera/avana-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
