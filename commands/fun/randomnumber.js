@@ -6,7 +6,7 @@ function generateNumber() {
 
 module.exports = {
     cooldown: 5,
-    category: "games",
+    category: "fun",
     data: new SlashCommandBuilder()
         .setName("randomnumber")
         .setDescription("Provides a random number."),
